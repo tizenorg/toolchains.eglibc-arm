@@ -1,0 +1,4 @@
+/usr/sbin/glibc_post_upgrade*
+/var/cache/ldconfig
+/etc/ld.so.conf.d/tizen-accelerator.conf
+/etc/ld.so.cache
