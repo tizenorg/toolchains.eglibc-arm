@@ -29,7 +29,6 @@
 # ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 
-
 ### no changes needed
 #
 # The new package name - convention is %oldname-x86
