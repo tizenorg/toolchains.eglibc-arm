@@ -20,13 +20,14 @@
 ### only changes here
 #
 # The original package name
-%define oldname eglibc
+%define oldname glibc
 #
 # The architectures this meta package is built on
 %define myexclusive %arm
 #
 ### no changes needed below this line
 # ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 
 
 ### no changes needed
@@ -84,7 +85,7 @@ Source30:      special_script
 %endif
 Source100:     baselibs.conf
 
-Provides: glibc-arm
+Provides: eglibc-arm
 
 %description
 This is a meta-package providing %name.
